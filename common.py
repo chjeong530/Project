@@ -4,7 +4,7 @@
 '''
 This module contais some common routines used by other samples.
 '''
-
+#Test
 import numpy as np
 import cv2
 import os
